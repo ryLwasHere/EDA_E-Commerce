@@ -1,4 +1,4 @@
-# Exploratory Data Analysis – E-Commerce Sales
+# Exploratory Data Analysis – ECommerce Sales
 > Note: All comments and analytical explanations in this notebook are written in Indonesian.
 
 ## Project Overview
