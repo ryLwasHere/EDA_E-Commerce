@@ -53,6 +53,6 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 The analysis reveals that e-commerce sales are driven primarily by high-demand household products and regionally concentrated customer activity. Businesses can leverage these insights by focusing on core product categories, optimizing regional strategies, and preparing for seasonal demand fluctuations.
 
 ## Author
-**Farrel Fauzan**  
+**Muhammad Farrel Fauzan**  
 Associate Information Systems Student'24 at UPN Veteran Jakarta
 
