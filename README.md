@@ -1,4 +1,5 @@
 # Exploratory Data Analysis – E-Commerce Sales
+> Note: All comments and analytical explanations in this notebook are written in Indonesian.
 
 ## Project Overview
 This project focuses on conducting an Exploratory Data Analysis (EDA) on an e-commerce transaction dataset to understand sales patterns, product performance, customer distribution, and time-based trends. The analysis aims to extract meaningful business insights that can support strategic decision-making.
